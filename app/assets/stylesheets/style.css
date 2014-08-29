@@ -51,8 +51,12 @@ p {
 
 .top-header {
 	padding-top: 50px;
-	color: #f8f8f8;
-	background: #1abc9c;
+	background: #fff;
+}
+
+.topp {
+
+	font-color: #000;
 }
 
 .top-message {
@@ -94,7 +98,7 @@ p {
 	font-size:14px;
 	line-height:22px;
 	margin-bottom:25px;
-	color:#fff;
+	color:#000;
 }
 
 /* Welcome content */
