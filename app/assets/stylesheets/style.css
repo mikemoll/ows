@@ -27,8 +27,13 @@ p {
 .header {
 	padding:8px 0;
 	z-index: 10000;
+	bottom-border: 5px solid #000000;
 }
 
+.navbar-navbar-default-navbar-fixed-top-header {
+	border-bottom: 5px solid #000000;
+
+}
 .logo i {
 	color:#1abc9c;
 	font-size:27px;
@@ -567,12 +572,12 @@ p.copyright {
 }
 
 .btn1:hover {
-	background:#a3e4d7;
-	color:#fff;
+	background:#fff;
+	color:#5CB86C;
 }
 
 .btn-7 {
-	background: #1abc9c;
+	background: #5CB86C;
 	color: #fff;
 	border-radius: 7px;
 	box-shadow: 0 5px #14ae90;
